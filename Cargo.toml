@@ -1,0 +1,7 @@
+[package]
+name = "snarc-cast-ex"
+version = "0.1.0"
+authors = ["c0gent <nsan1129@gmail.com>"]
+
+[dependencies]
+snarc = { git = "https://github.com/mbr/snarc-rs", branch = "c0gent-unsized" }

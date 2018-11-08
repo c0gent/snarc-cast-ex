@@ -1,0 +1,14 @@
+[[package]]
+name = "snarc"
+version = "0.2.0"
+source = "git+https://github.com/mbr/snarc-rs?branch=c0gent-unsized#574aeb46e09cb7867f81bafdfd5fc9a2d97359c9"
+
+[[package]]
+name = "snarc-cast-ex"
+version = "0.1.0"
+dependencies = [
+ "snarc 0.2.0 (git+https://github.com/mbr/snarc-rs?branch=c0gent-unsized)",
+]
+
+[metadata]
+"checksum snarc 0.2.0 (git+https://github.com/mbr/snarc-rs?branch=c0gent-unsized)" = "<none>"
